@@ -1,0 +1,2 @@
+# Don't commit Mac indexing files
+.DS_Store
