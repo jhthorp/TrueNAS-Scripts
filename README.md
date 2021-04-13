@@ -8,7 +8,6 @@ This repository contains a collection of useful scripts for TrueNAS.
 * [Getting Started](#getting-started)
 * [Prerequisites](#prerequisites)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Scripts](#scripts)
 * [Deployment](#deployment)
 * [Dependencies](#dependencies)
@@ -40,11 +39,9 @@ There are no prerequisites at this time.
 
 There are no setup steps at this time.
 
-### Usage
-
-There are no usage steps at this time.
-
 ## Scripts
+
+There are no scripts at this time.
 
 ## Deployment
 
@@ -86,9 +83,10 @@ support from the team.  For any security concerns, please read
 
 We use [Semantic Versioning](http://semver.org/) for versioning. For available 
 releases, please see the 
-[available tags](https://github.com/jhthorp/TrueNAS-Scripts/tags) or look through our 
-[Release Notes](.github/RELEASE_NOTES.md). For extensive documentation of 
-changes between releases, please see the [Changelog](.github/CHANGELOG.md).
+[available tags](https://github.com/jhthorp/TrueNAS-Scripts/tags) or look 
+through our [Release Notes](.github/RELEASE_NOTES.md). For extensive 
+documentation of changes between releases, please see the 
+[Changelog](.github/CHANGELOG.md).
 
 ## Authors
 
